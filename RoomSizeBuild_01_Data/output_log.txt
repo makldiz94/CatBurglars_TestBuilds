@@ -14,17 +14,13 @@ Platform assembly: C:\Users\Michael\Videos\CatBurglars_TestBuilds\RoomSizeBuild_
 Loading C:\Users\Michael\Videos\CatBurglars_TestBuilds\RoomSizeBuild_01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Michael\Videos\CatBurglars_TestBuilds\RoomSizeBuild_01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\Michael\Videos\CatBurglars_TestBuilds\RoomSizeBuild_01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Michael\Videos\CatBurglars_TestBuilds\RoomSizeBuild_01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Michael\Videos\CatBurglars_TestBuilds\RoomSizeBuild_01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Michael\Videos\CatBurglars_TestBuilds\RoomSizeBuild_01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Michael\Videos\CatBurglars_TestBuilds\RoomSizeBuild_01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Michael\Videos\CatBurglars_TestBuilds\RoomSizeBuild_01_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.060 seconds
+- Completed reload, in  0.158 seconds
 desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
 Platform assembly: C:\Users\Michael\Videos\CatBurglars_TestBuilds\RoomSizeBuild_01_Data\Managed\System.dll (this message is harmless)
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 558 -> priority: 1 
-  Thread -> id: 20f4 -> priority: 1 
+  Thread -> id: 1aa0 -> priority: 1 
+  Thread -> id: ca4 -> priority: 1 
